@@ -61,7 +61,7 @@ p{
   transform: rotate(20deg);
   width:60%;
   position: absolute;
-  left:  20%;
+  padding-left: 15%;
 
 }
 
