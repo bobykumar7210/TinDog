@@ -179,7 +179,7 @@ section press */
         position: static;
       width: 60%;
 
-      transform: rotate(0);
+      transform: rotate(25);
     }
     .title-text{
     font-style: 3rem;
