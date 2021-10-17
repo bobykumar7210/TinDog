@@ -1,5 +1,4 @@
-# TinDog Starting Files
+# TinDog 
 
-## link to website
-
+## Website
 ### https://bobykumar7210.github.io/bootstrap-tindog/
