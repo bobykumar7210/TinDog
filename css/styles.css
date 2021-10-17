@@ -86,14 +86,11 @@ p{
 }
 
 .features-image{
-    color: #ef8172;
+    color: black;
     margin-bottom: 20px;
 
 }
-.features-image:hover{
-  color: #ff4c68;
 
-}
 .feature-box:hover{
   background-color: #f8f8f8;
   border-radius: 20px;
@@ -172,7 +169,36 @@ section press */
 .row{
   padding-top: 30px;
 }
+/* <!-- Call to Action --> */
 
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+}
+.cta-title{
+  font-family: Montserrat;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: white;
+  padding: 30px 0;
+}
+
+/* //footer  */
+#footer{
+    text-align: center;
+    padding: 7% 15% 0 15%;
+
+}
+.fa-custom{
+  color: black;
+}
+.social{
+  margin-bottom: 10px;
+}
+.social-link{
+  padding:  0px 10px;
+}
 @media (max-width:1010px) {
 
     .title-image{
@@ -181,8 +207,8 @@ section press */
 
       transform: rotate(25);
     }
-    .title-text{
-    font-style: 3rem;
+    h1{
+      font-size: 3rem;
     }
 
 }
